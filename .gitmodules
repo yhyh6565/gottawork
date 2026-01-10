@@ -1,0 +1,6 @@
+[submodule "dreamcorp-intranet"]
+	path = dreamcorp-intranet
+	url = https://github.com/yhyh6565/dreamcorp-intranet
+[submodule "bureau-of-supernatural-disaster"]
+	path = bureau-of-supernatural-disaster
+	url = https://github.com/yhyh6565/bureau-of-supernatural-disaster
